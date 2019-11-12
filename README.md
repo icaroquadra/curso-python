@@ -1,4 +1,4 @@
-# curso-python
+# python-course
 Python labs with Olist and Cinq
 
 Install the python 3.7
