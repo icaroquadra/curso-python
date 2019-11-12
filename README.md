@@ -1,22 +1,25 @@
 # curso-python
-Curso da Olist e Cynq de Python
+Python labs with Olist and Cinq
 
-install the python 3.7
-verify the version
+Install the python 3.7
+Verify the version with the command:
 
 python --version
 python3 --version
 python3.7 --version
 
-run the 
+Run the command to create your .venv file
 python3 -m venv .venv  
 
-verify the new folder .venv
+Verify the new folder .venv
 
-run the
+Run command to active the source
 source .venv/bin/activate 
 
-verify the pip version
+Verify the pip version
 pip --version
 
 version 19.03
+
+Run the interative mod with the command
+python
