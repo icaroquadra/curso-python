@@ -26,3 +26,10 @@ version 19.03
 
 Run the interative mod with the command
 python
+
+(to run for the first time the project example Djano_Training) {
+  pip install -r requirements.txt
+  python manage.py makemigrations
+  python manage.py migrate
+  python manage.py runserver
+}
