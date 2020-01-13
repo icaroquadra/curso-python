@@ -11,6 +11,9 @@ python3.7 --version
 Run the command to create your .venv file
 python3 -m venv .venv  
 
+(if it dont run)
+apt install python3-pip python3-setuptools python3.7-venv
+
 Verify the new folder .venv
 
 Run command to active the source
